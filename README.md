@@ -4,7 +4,7 @@ A python jupiter notebook made for google colab, which will create one pixel per
 which can be used to trick image classification models for the kaggle cifar-10 dataset, uses a differential algorithm from scipi to achive this.
 <br />
 Instructions:
-Open One_Pixel_Attacks.ipynb in google colab:  link [Google Colab][https://colab.research.google.com]
+Open One_Pixel_Attacks.ipynb in google colab:  link https://colab.research.google.com
 <br />
 Run each cell in order and some data will be stored in runtime drive, called targeted.txt and untargeted.txt, coressponding for each attack.
 <br />
